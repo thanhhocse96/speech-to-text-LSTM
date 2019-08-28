@@ -2,6 +2,9 @@
 ## Nội dung
 Dự án được làm để tìm hiểu về Mạng Neuron hồi quy - Recurrent Neural Network với kĩ thuật Long Short-term Memory và các kĩ thuật khác được sử dụng trong vấn đề Nhận dạng giọng nói - Speech Recognition
 
+## Dataset
+1. 
+
 ## Trân trọng cảm ơn
 Trong quá trình làm, chúng tôi đã mượn và tham khảo một số thư viện từ các nguồn sau:
 
